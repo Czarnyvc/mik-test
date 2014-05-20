@@ -1,4 +1,8 @@
-mik-test
-========
+# README for mik-test repository
 
-GitHub Foundations example repo
+---
+
+## Objectives for Repository
+
+* Learn about using GitHub.com
+* Understand local versus remote repositories
